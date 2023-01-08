@@ -1,0 +1,31 @@
+myapp/swati/wordjumble/BR.java
+ myapp.swati.wordjumble.BR
+myapp/swati/wordjumble/databinding/ScoreFragmentBindingImpl.java
+ myapp.swati.wordjumble.databinding.ScoreFragmentBindingImpl
+myapp/swati/wordjumble/DataBinderMapperImpl.java
+ myapp.swati.wordjumble.DataBinderMapperImpl
+ myapp.swati.wordjumble.DataBinderMapperImpl$InnerBrLookup
+ myapp.swati.wordjumble.DataBinderMapperImpl$InnerLayoutIdLookup
+myapp/swati/wordjumble/BuildConfig.java
+ myapp.swati.wordjumble.BuildConfig
+myapp/swati/wordjumble/databinding/GameFragmentBinding.java
+ myapp.swati.wordjumble.databinding.GameFragmentBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+myapp/swati/wordjumble/databinding/ScoreFragmentBinding.java
+ myapp.swati.wordjumble.databinding.ScoreFragmentBinding
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+myapp/swati/wordjumble/databinding/TitleFragmentBindingImpl.java
+ myapp.swati.wordjumble.databinding.TitleFragmentBindingImpl
+myapp/swati/wordjumble/databinding/TitleFragmentBinding.java
+ myapp.swati.wordjumble.databinding.TitleFragmentBinding
+myapp/swati/wordjumble/databinding/GameFragmentBindingImpl.java
+ myapp.swati.wordjumble.databinding.GameFragmentBindingImpl
+myapp/swati/wordjumble/DataBindingTriggerClass.java
+ myapp.swati.wordjumble.DataBindingTriggerClass
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+myapp/swati/wordjumble/generated/callback/OnClickListener.java
+ myapp.swati.wordjumble.generated.callback.OnClickListener
+ myapp.swati.wordjumble.generated.callback.OnClickListener$Listener

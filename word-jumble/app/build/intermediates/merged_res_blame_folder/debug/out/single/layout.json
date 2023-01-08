@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Swati\\AndroidProjects\\Word Jumble\\word-jumble\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\game_fragment.xml",
+        "source": "C:\\Users\\Swati\\AndroidProjects\\Word Jumble\\word-jumble\\app\\src\\main\\res\\layout\\game_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Swati\\AndroidProjects\\Word Jumble\\word-jumble\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\score_fragment.xml",
+        "source": "C:\\Users\\Swati\\AndroidProjects\\Word Jumble\\word-jumble\\app\\src\\main\\res\\layout\\score_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Swati\\AndroidProjects\\Word Jumble\\word-jumble\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\title_fragment.xml",
+        "source": "C:\\Users\\Swati\\AndroidProjects\\Word Jumble\\word-jumble\\app\\src\\main\\res\\layout\\title_fragment.xml"
+    }
+]
