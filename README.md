@@ -1,6 +1,6 @@
 # Word Jumble!
 
-##About-
+## About-
 
 Word Jumble is a word guessing app you can play with one or more friends. To play, hold the device with your thumbs on the **Skip** and **Got It** buttons. Now guess the correct word based on the shuffled letters given.
 
@@ -11,7 +11,7 @@ You can share your score with friends, family or colleagues at the end of the ga
 
 ## Screenshots
 
-![Screenshot 0](screenshots/screen0.jpg) ![Screenshot 1](screenshots/screen1.jpg) ![Screenshot 2](screenshots/screen2.jpg) ![Screenshot 3](screenshots/screen3.jpg)
+![Screenshot 0](Screenshots/screen0.jpg) ![Screenshot 1](Screenshots/screen1.jpg) ![Screenshot 2](Screenshots/screen2.jpg) ![Screenshot 3](Screenshots/screen3.jpg)
 
 ## How to run this project-
 
