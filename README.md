@@ -11,7 +11,7 @@ You can share your score with friends, family or colleagues at the end of the ga
 
 ## Screenshots
 
-![Screenshot 0](/Screenshots/screen0.jpg) ![Screenshot 1](/Screenshots/screen1.jpg) ![Screenshot 2](/Screenshots/screen2.jpg) ![Screenshot 3](/Screenshots/screen3.jpg)
+![Screenshot 0](./Screenshots/screen0.jpg) ![Screenshot 1](./Screenshots/screen1.jpg) ![Screenshot 2](./Screenshots/screen2.jpg) ![Screenshot 3](./Screenshots/screen3.jpg)
 
 ## How to run this project-
 
